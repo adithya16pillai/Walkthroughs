@@ -1,2 +1,3 @@
-# HTB-Walkthroughs
-A walkthrough repository of all the machines, labs and academy sessions on Hack The Box
+# Walkthroughs of various rooms of CTFs & Security Platform Rooms 
+
+
